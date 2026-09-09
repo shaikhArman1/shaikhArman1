@@ -1,60 +1,82 @@
 # shaikh arman
 
-student of 2nd year b.tech · cse data science · building practical AI systems that solve real problems
+`2nd year b.tech` · `cse data science` · building practical AI systems that solve real problems
 
 ---
 
 ## selected work
 
-| project | description |
-|---|---|
-| **cybershield ai** | AI-powered cybersecurity platform focused on threat detection, attacker interaction, and security intelligence. |
-| **medicare.ai** | AI-powered emergency medical navigation platform that helps users find suitable specialists and nearby hospitals. |
-| **oceanguard** | Technology-driven solution focused on monitoring and addressing challenges related to ocean environments. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛡️ CyberShield AI
 
-## achievements
+AI-powered cybersecurity platform designed around threat detection, attacker interaction, and security intelligence.
 
-**3x Hackathon Finalist**
+**stack**
 
----
+`Python` `AI` `Cybersecurity`
 
-## currently learning
+**[→ repository](https://github.com/shaikhArman1/CyberShield_AI)**
 
-- artificial intelligence & machine learning
-- data science
-- ai agents & multi-model systems
-- retrieval augmented generation (rag)
-- backend development
-- data structures & algorithms
+</td>
 
----
+<td width="50%" valign="top">
 
-## stack
+### 🏥 Medicare.AI
 
-### languages
-`python` `c` `javascript` `html` `css`
+AI-powered emergency medical navigation platform that helps users find suitable specialists and nearby hospitals.
 
-### ai / data
-`python` `machine learning` `data science` `rag` `ai agents`
+**stack**
 
-### tools & technologies
-`git` `github` `tailwind css` `streamlit` `node.js`
+`Python` `AI` `HealthTech`
+
+**[→ repository](https://github.com/shaikhArman1/Medicare.AI)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 OceanGuard
+
+Technology-driven solution focused on monitoring and addressing challenges related to ocean environments.
+
+**stack**
+
+`Python` `AI` `Data Science`
+
+**[→ repository](https://github.com/shaikhArman1/OceanGuard)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Building & experimenting
+
+Currently exploring new ideas around AI engineering, data science, software development, and intelligent systems.
+
+**focus**
+
+`AI` `ML` `RAG` `AI Agents`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## about
 
 ```text
-2nd year B.Tech CSE (Data Science) student.
+2nd year B.Tech CSE (Data Science) student
 
-Interested in AI, software engineering, and building products
-that move beyond ideas into working systems.
+building things, breaking things, and learning how they work.
 
-Currently exploring AI engineering, data science,
-backend development, and DSA.
-
+interested in AI engineering, data science, software development,
+and turning ideas into practical working systems.
 <!--
 **shaikhArman1/shaikhArman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
