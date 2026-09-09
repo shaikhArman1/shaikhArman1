@@ -1,0 +1,142 @@
+<svg viewBox="0 0 680 610" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace">
+<style>
+:root { --bg: #ffffff; --bg1: #f6f8fa; --border: #d0d7de; --text: #1f2328; --muted: #656d76; --tag-bg: #f6f8fa; --tag-border: #d0d7de; }
+@media (prefers-color-scheme: dark) {
+:root { --bg: #0d1117; --bg1: #161b22; --border: #30363d; --text: #e6edf3; --muted: #8b949e; --tag-bg: #161b22; --tag-border: #30363d; }
+}
+</style>
+
+<rect width="680" height="610" fill="var(--bg)"/>
+
+<!-- name + tagline -->
+<text x="32" y="44" font-size="13" font-weight="500" fill="var(--text)" letter-spacing="1.5">shaikh arman</text>
+<text x="32" y="62" font-size="11" fill="var(--muted)" letter-spacing="0.5">full-stack · ai · mobile · building things that ship</text>
+
+<line x1="32" y1="78" x2="648" y2="78" stroke="var(--border)" stroke-width="0.5"/>
+
+<text x="32" y="98" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">SELECTED WORK</text>
+
+<!-- project grid -->
+<rect x="32" y="110" width="616" height="260" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="340" y1="110" x2="340" y2="370" stroke="var(--border)" stroke-width="0.5"/>
+<line x1="32" y1="240" x2="648" y2="240" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- OceanGuard AI Pipeline -->
+<text x="48" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">oceanguard ai pipeline</text>
+<text x="48" y="154" font-size="10" fill="var(--muted)">Maritime surveillance system with U-Net oil spill</text>
+<text x="48" y="168" font-size="10" fill="var(--muted)">detection and AIS correlation engine. End-to-end</text>
+<text x="48" y="182" font-size="10" fill="var(--muted)">PyTorch model wrapped in React &amp; FastAPI.</text>
+<rect x="48" y="196" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="74" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="106" y="196" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="134" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">pytorch</text>
+<rect x="168" y="196" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="190" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+<rect x="218" y="196" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="246" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+
+<!-- Atelier Mobile App -->
+<text x="356" y="136" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">atelier mobile app</text>
+<text x="356" y="154" font-size="10" fill="var(--muted)">Cross-platform AI interior design client exported</text>
+<text x="356" y="168" font-size="10" fill="var(--muted)">with Capacitor. Features client-side API service</text>
+<text x="356" y="182" font-size="10" fill="var(--muted)">layer and native Android/iOS bundles.</text>
+<rect x="356" y="196" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="378" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+<rect x="406" y="196" width="66" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="439" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">capacitor</text>
+<rect x="478" y="196" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="506" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">android</text>
+<rect x="540" y="196" width="34" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="557" y="208" font-size="9" fill="var(--muted)" text-anchor="middle">ios</text>
+
+<!-- Medicare.ai -->
+<text x="48" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">medicare.ai</text>
+<text x="48" y="284" font-size="10" fill="var(--muted)">Hospital search and RAG chatbot architecture.</text>
+<text x="48" y="298" font-size="10" fill="var(--muted)">Features robust handling of specialty data,</text>
+<text x="48" y="312" font-size="10" fill="var(--muted)">filtering options, and a vector db integration.</text>
+<rect x="48" y="326" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="74" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="106" y="326" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="137" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">langchain</text>
+<rect x="174" y="326" width="56" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="202" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+<rect x="236" y="326" width="32" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="252" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">rag</text>
+
+<!-- Precision Dashboard -->
+<text x="356" y="266" font-size="11.5" font-weight="500" fill="var(--text)" letter-spacing="0.3">precision agency ui</text>
+<text x="356" y="284" font-size="10" fill="var(--muted)">Premium agency dashboard with Firebase auth</text>
+<text x="356" y="298" font-size="10" fill="var(--muted)">(OTP). Implements comprehensive data tabs and a</text>
+<text x="356" y="312" font-size="10" fill="var(--muted)">responsive, professional layout from Figma.</text>
+<rect x="356" y="326" width="44" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="378" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+<rect x="406" y="326" width="62" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="437" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">tailwind</text>
+<rect x="474" y="326" width="60" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="504" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+<rect x="540" y="326" width="48" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="564" y="338" font-size="9" fill="var(--muted)" text-anchor="middle">ui/ux</text>
+
+<line x1="32" y1="390" x2="648" y2="390" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- experience -->
+<text x="32" y="410" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">EXPERIENCE</text>
+
+<text x="32" y="430" font-size="11" font-weight="500" fill="var(--text)">Freelance — Full Stack Developer</text>
+<text x="636" y="430" font-size="10" fill="var(--muted)" text-anchor="end">Jan 2026 - Present</text>
+<text x="32" y="444" font-size="10" fill="var(--muted)">premium web apps · modular architecture · ai integration</text>
+
+<text x="32" y="462" font-size="11" font-weight="500" fill="var(--text)">Hackathon — AI/ML Lead</text>
+<text x="636" y="462" font-size="10" fill="var(--muted)" text-anchor="end">Aug 2026 - Sep 2026</text>
+<text x="32" y="476" font-size="10" fill="var(--muted)">developed OceanGuard pipeline · scalable systems · fast iterations</text>
+
+<text x="32" y="494" font-size="11" font-weight="500" fill="var(--text)">Open Source Contributor — Various</text>
+<text x="636" y="494" font-size="10" fill="var(--muted)" text-anchor="end">May 2025 - Present</text>
+<text x="32" y="508" font-size="10" fill="var(--muted)">bug fixes · performance optimization · api tooling</text>
+
+<line x1="32" y1="524" x2="648" y2="524" stroke="var(--border)" stroke-width="0.5"/>
+
+<!-- stack -->
+<text x="32" y="544" font-size="9" fill="var(--muted)" letter-spacing="2" font-weight="500">STACK</text>
+
+<!-- row 1 -->
+<rect x="32" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="58" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">python</text>
+<rect x="90" y="554" width="72" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="126" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">typescript</text>
+<rect x="168" y="554" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="188" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">react</text>
+<rect x="214" y="554" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="241" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">next.js</text>
+<rect x="274" y="554" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="301" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">tailwind</text>
+<rect x="334" y="554" width="50" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="359" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">fastapi</text>
+<rect x="390" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="416" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">pytorch</text>
+<rect x="448" y="554" width="52" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="474" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">node.js</text>
+<rect x="506" y="554" width="60" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="536" y="566" font-size="9" fill="var(--muted)" text-anchor="middle">capacitor</text>
+
+<!-- row 2 -->
+<rect x="32" y="576" width="58" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="61" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">firebase</text>
+<rect x="96" y="576" width="68" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="130" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">postgresql</text>
+<rect x="170" y="576" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="193" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">sqlite</text>
+<rect x="222" y="576" width="46" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="245" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">docker</text>
+<rect x="274" y="576" width="54" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="301" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">mongodb</text>
+<rect x="334" y="576" width="60" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="364" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">langchain</text>
+<rect x="400" y="576" width="50" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="425" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">uvicorn</text>
+<rect x="456" y="576" width="40" height="16" rx="2" fill="var(--tag-bg)" stroke="var(--tag-border)" stroke-width="0.5"/>
+<text x="476" y="588" font-size="9" fill="var(--muted)" text-anchor="middle">redis</text>
+
+<line x1="32" y1="604" x2="648" y2="604" stroke="var(--border)" stroke-width="0.5"/>
+
+</svg>
